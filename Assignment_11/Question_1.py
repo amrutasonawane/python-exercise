@@ -1,6 +1,5 @@
-#1. Write a program which accepts one number and checks whether it is prime or not.
-#Input: 11
-#Output: Prime Number
+#Write a program which accepts one number and checks wheather it is prime or not
+
 def checkPrime(no1):
 	if(no1 == 0 or no1 == 1):
 		return False

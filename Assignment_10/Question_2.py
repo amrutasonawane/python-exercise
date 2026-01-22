@@ -1,6 +1,4 @@
-#2. Write a program which accepts one number and prints sum of first N natural numbers.
-#Input: 5
-#Output: 15
+#Write a program which accepts one number and prints sum of first N natural numbers.
 
 def summation(no1):
 	result = 0

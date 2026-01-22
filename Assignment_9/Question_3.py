@@ -1,6 +1,5 @@
-#3. Write a program which accepts one number and prints square of that number.
-#Input: 5
-#Output: 25
+#Write a program which accepts one number and prints square of that number.
+
 def getSquare(no1):
 	return no1 * no1
 

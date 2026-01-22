@@ -1,6 +1,4 @@
-# 5. Write a program which accepts one number and checks whether it is divisible by 3 and 5
-#Input: 15
-#Output: Divisible by 3 and 5
+# Write a program which accepts one number and checks whether it is divisible by 3 and 5
 def checkDivisible(no1):
 	checkDivisible = ""
 	if(no1 % 3) == 0 and (no1 % 5) == 0:
