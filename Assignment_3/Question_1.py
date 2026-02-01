@@ -7,3 +7,5 @@ def multiply_number(Num1, Num2):
 
 result = multiply_number(10,20)
 print('Mutliplication result is : ',result)
+
+

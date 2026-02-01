@@ -1,4 +1,4 @@
-# Write a lambda function which accepts one number and returns cube of that number.
+# Write a lambda function which accepts one number and returns cube of that num
 cube  = lambda no1 : no1 ** 3
 
 

@@ -1,6 +1,5 @@
 #Write a program which accepts one number and prints sum of digits.
-#Input: 123
-#Output: 6
+
 def sumOfDigit(no1):	
 	total = 0
 	for digit in str(no1):

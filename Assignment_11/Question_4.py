@@ -1,6 +1,5 @@
-#4. Write a program which accepts one number and prints reverse of that number.
-#Input: 123
-#Output: 321
+# Write a program which accepts one number and prints reverse of that number.
+
 def reverseNumber(no1):
 	reverse = 0
 	while(no1>0):

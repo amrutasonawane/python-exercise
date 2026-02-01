@@ -1,12 +1,9 @@
-#2. Write a program which contains one function ChkGreater() that accepts two numbers and prints the greater number.
+#2. Write a program which contains one function that accepts two numbers and prints the greater number.
 def checkGreater(no1,no2):
 	if(no1>no2):
 		return no1
 	else:
 		return no2
-
-
-
 
 
 def main():
